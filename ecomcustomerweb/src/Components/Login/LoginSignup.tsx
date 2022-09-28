@@ -17,7 +17,7 @@ const LoginSignup = () => {
     return(
         // <h1>Hello Dhruv</h1>
         <div>
-            <Button onClick={()=>showAlert()} variant="contained">Hello World</Button>
+            <Button onClick={()=>showAlert()} variant="contained">Hello Prateek</Button>
             <h1>{count}</h1>
         </div>
     )
